@@ -8,5 +8,5 @@ function main() {
     
 }
 
-console.log(main(numOne, numTwo));  
+console.log(main(15, 8));  
 module.exports = main;
