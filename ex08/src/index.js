@@ -20,3 +20,6 @@ module.exports = main;
     // Only change code below this line
     return sum;
        
+
+    console.log(main(numOne, numTwo));  
+    module.exports = main;
