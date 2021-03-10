@@ -12,6 +12,7 @@ function main(numOne, numTwo) {
 console.log(main(numOne, numTwo));  
 module.exports = main;
 
+function main(numOne, numTwo) {
 
     // Only change code below this line
     var numOne = 5;
