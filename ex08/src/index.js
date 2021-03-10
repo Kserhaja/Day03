@@ -11,16 +11,3 @@ function main(numOne, numTwo) {
 
 console.log(main(numOne, numTwo));  
 module.exports = main;
-
-function main(numOne, numTwo) {
-
-    // Only change code below this line
-    var numOne = 5;
-    var numTwo = 28;
-    var sum = numOne + numTwo;
-    // Only change code below this line
-    return sum;
-       
-
-    console.log(main(numOne, numTwo));  
-    module.exports = main;
