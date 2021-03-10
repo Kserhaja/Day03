@@ -3,7 +3,7 @@ function main(numOne, numTwo) {
     
     var numOne = numOne;
     var numTwo = numTwo;
-    var difference = numOne + numTwo;
+    var difference = numOne - numTwo;
     // Only change code below this line
 
     return difference;
