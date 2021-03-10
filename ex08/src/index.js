@@ -1,4 +1,4 @@
-function main() {
+function main(numOne, numTwo) {
     // Only change code below this line
     var numOne = 15;
     var numTwo = 8;
