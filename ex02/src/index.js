@@ -1,7 +1,11 @@
 function main() {
-    // Izmjena single comments
+    // Promjena single komentara
     console.log ('Hello World!')
-    // Only change code above this line
+    // Promjena single komentara
+    /* document.write ("Napravio novi komentar!");
+    document.write ("A ovo je stari komentar!");
+    */
 }
-main()
+console.log(main());
+
 module.exports = main;
