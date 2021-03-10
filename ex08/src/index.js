@@ -1,7 +1,7 @@
 function main() {
     // Only change code below this line
-    var numOne = 15;
-    var numTwo = 8;
+    var numOne = 5;
+    var numTwo = 23;
     var sum = numOne + numTwo;
     // Only change code below this line
     return sum;
