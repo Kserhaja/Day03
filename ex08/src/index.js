@@ -1,0 +1,15 @@
+function main() {
+    // Only change code below this line
+    // Variable declarations
+    var stUdLyCapVar;
+    var properCamelCase;
+    var titleCaseOver;
+    // Variable assignments
+    studlyCapVar = 10;
+    properCamelCase = "A String";
+    titleCaseOver = 9000;
+    // Only change code below this line
+    return {
+        studlyCapVar,
+        properCamelCase,
+        titleCaseOver
