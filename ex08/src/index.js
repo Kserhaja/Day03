@@ -1,4 +1,4 @@
-function main(15, 8) {
+function main() {
     // Only change code below this line
     var numOne = 15;
     var numTwo = 8;
@@ -9,5 +9,5 @@ function main(15, 8) {
 }
 
 
-console.log(main(numOne, numTwo));  
+console.log(main(15, 8));  
 module.exports = main;
