@@ -1,15 +1,12 @@
 function main() {
     // Only change code below this line
-    // Variable declarations
-    var stUdLyCapVar;
-    var properCamelCase;
-    var titleCaseOver;
-    // Variable assignments
-    studlyCapVar = 10;
-    properCamelCase = "A String";
-    titleCaseOver = 9000;
+    var numOne = 5;
+    var numTwo = 13;
     // Only change code below this line
-    return {
-        studlyCapVar,
-        properCamelCase,
-        titleCaseOver
+    return sum [numOne + numTwo];
+       
+}
+
+
+console.log(main()); // change this line   
+module.exports = main;
